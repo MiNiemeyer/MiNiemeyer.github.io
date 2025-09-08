@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Hugo website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Positron Markdown vs R-Markdown</title>
+      <link>/2025/09/08/positron-markdown-vs-r-markdown/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/2025/09/08/positron-markdown-vs-r-markdown/</guid>
+      <description>&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;&#xA;&lt;p&gt;Markdown Post werden mit folgendem Befehl erstellt:&#xA;&lt;code&gt;blogdown::new_post(&amp;quot;Mein 1. Markdown Post&amp;quot;)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bei Markdown wird die Vorschau in Positron automatisch mit dem Speichern der .md Datei aktualisiert.&lt;/p&gt;&#xA;&lt;h1 id=&#34;r-markdown&#34;&gt;R-Markdown&lt;/h1&gt;&#xA;&lt;p&gt;R-Markdown hat mehr Möglichkeiten als Markdown. Die Aktualisierung der Vorschau ist jedoch nicht so einfach wie bei Markdown.&lt;/p&gt;&#xA;&lt;p&gt;R-Markdown Post werden mit folgendem Befehl erstellt:&#xA;&lt;code&gt;blogdown::new_post(&amp;quot;Mein 1. R-Markdown Post&amp;quot;, ext= &amp;quot;.rmd&amp;quot;)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bei R-Markdown wird die Vorschau nicht automatisch mit dem Speichern der .rmd Datei aktualisiert.&#xA;Zur Aktualierung sind folgende Schritte notwendig:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
