@@ -20,7 +20,11 @@
       <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       <guid>/about/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Meine ersten Versuche mit R, blogdown und Hugo in Positron&lt;/p&gt;</description>
+=======
+      <description>&lt;p&gt;Meine 1. Versuche mit R, blogdown und Hugo in Positron&lt;/p&gt;</description>
+>>>>>>> 13c96355ed3764c64c9522de7006fe21b3e785f4
     </item>
   </channel>
 </rss>
